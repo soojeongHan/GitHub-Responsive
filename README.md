@@ -4,7 +4,7 @@ GitHub 사이트의 메인 페이지를 반응형으로 작업합니다.
 
 ## Example
 
-[GitHub Responsive 예제](https://soojeonghan.github.io/GitHub-Responsive/)
+[GitHub Responsive 예제](https://soojeonghan.github.io/js-github-page-responsive/)
 
 ## Size
 
